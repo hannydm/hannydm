@@ -1,14 +1,13 @@
-<h1 align="center">Hi, I'm Hanny Destian Marzuliyanti</h1>
+<div align="center">
 
-<h3 align="center">
-  Software Engineer | Web Developer | Back-End Developer
-</h3>
+# Hi, I'm Hanny Destian Marzuliyanti
 
-<p align="center">
-  Informatics Graduate from Universitas Sultan Ageng Tirtayasa  
-  <br/>
-  Passionate about Web Development, Back-End Engineering, and Digital Product Development
-</p>
+### Software Engineer | Web Developer | Back-End Developer
+
+Informatics Graduate from Universitas Sultan Ageng Tirtayasa  
+Passionate about Web Development, Back-End Engineering, and Digital Product Development
+
+</div>
 
 ---
 
@@ -30,18 +29,22 @@ I have practical experience as a Web Developer through independent study and MBK
 
 ### Programming & Web Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ### Tools & Design
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</p>
 
 ---
 
@@ -112,24 +115,33 @@ I have practical experience as a Web Developer through independent study and MBK
 
 ## Soft Skills
 
-- Problem Solving
-- Adaptability
-- Teamwork
-- Project Management
-- Leadership
-- Critical Thinking
+<p align="left">
+  <img src="https://img.shields.io/badge/Problem%20Solving-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptability-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teamwork-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project%20Management-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Critical%20Thinking-4B5563?style=for-the-badge" />
+</p>
+
+---
+
+## Languages
+
+- Indonesian: Native
+- English: Intermediate
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hannydm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannydm&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hannydm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hanny's GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannydm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
@@ -137,18 +149,22 @@ I have practical experience as a Web Developer through independent study and MBK
 
 <p align="left">
   <a href="mailto:destianmarzuliyanti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-destianmarzuliyanti%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-destianmarzuliyanti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
 
-<p align="left">
   <a href="https://www.linkedin.com/in/hanny-destian-marzuliyanti/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hanny%20Destian%20Marzuliyanti-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Hanny%20Destian%20Marzuliyanti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/hannydm">
+    <img src="https://img.shields.io/badge/GitHub-hannydm-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  Thank you for visiting my GitHub profile.
-</p>
+<div align="center">
+
+Thank you for visiting my GitHub profile.
+
+</div>
